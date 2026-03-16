@@ -140,7 +140,7 @@ AuthProvider stores user → redirect to /library
 
 ```bash
 # 1. Clone
-git clone https://github.com/your-username/dream-book-web
+git clone https://github.com/Talha-Tahir2001/dream-book-web
 cd dream-book-web
 
 # 2. Install dependencies
