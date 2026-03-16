@@ -58,7 +58,7 @@ export function useStoryStream(): UseStoryStreamReturn {
                 }
                 return [
                     ...prev,
-                    { pageNumber: update.pageNumber, text: "", imagePrompt: "", ...update },
+                    { text: "", imagePrompt: "", ...update },
                 ].sort((a, b) => a.pageNumber - b.pageNumber);
             });
         },
