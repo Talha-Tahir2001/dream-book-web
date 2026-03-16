@@ -11,7 +11,8 @@
 ## What is DreamBook?
 
 A parent describes their child — by voice or text — and DreamBook generates a fully illustrated, narrated, personalized storybook in real time. Pages stream in live as they're written, illustrations appear as they're generated, and audio narration plays per page. The finished story downloads as a PDF storybook.
-
+## DreamBook Web 
+![DreamBook Landing Page](./docs/dream-book-landing.png)
 ---
 
 ## Tech Stack
