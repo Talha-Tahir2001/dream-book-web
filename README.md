@@ -43,6 +43,9 @@ A parent describes their child — by voice or text — and DreamBook generates 
 
 ---
 
+## DreamBook Architecture 
+![DreamBook Architecture](/docs/architecture.svg)
+
 ## App Structure
 
 ```
