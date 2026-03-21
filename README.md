@@ -4,7 +4,7 @@
 > Built for the **Gemini Live Agent Hackathon 2026**.
 >
 > 🏆 **Live Demo:** https://dream-book-web.vercel.app
-> 📡 **Backend API:** https://github.com/your-username/dream-book-api
+> 📡 **Backend API:** https://github.com/Talha-Tahir2001/dream-book-api
 
 ---
 
